@@ -5,5 +5,5 @@
 4) Excecute the file.
 
 # Note about files
-1) MGeneticDisorderPrediction-Team33.ipynb is the main file that contains the exploratory data analysis part and Model part.
+1) GeneticDisorderPrediction-Team33.ipynb is the main file that contains the exploratory data analysis part and Model part.
 2) IBM_Datathon_1.ipynb contains the pre-processing code
